@@ -1,6 +1,6 @@
 
 
-just a quick experiment to stream things on excalidraw using `gpto` 
+just a quick experiment to stream things on `excalidraw` using `gpto` with `vercel/ai` lib
 
 example use case:
 - look at your screen and create decision tree, maps, diagrams, of your doings, decisions, sales, crm, etc
