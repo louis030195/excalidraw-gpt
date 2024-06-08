@@ -10,4 +10,6 @@ example use case:
 - etc.
 
 
+https://github.com/louis030195/excalidraw-gpt/assets/25003283/a00d83f0-9abc-4085-bcb1-28ad10c33cc6
+
 
