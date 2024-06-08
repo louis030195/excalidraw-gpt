@@ -11,8 +11,3 @@ example use case:
 
 
 
-
-https://github.com/louis030195/excalidraw-gpt/assets/25003283/2620522e-7e3c-4987-8f92-983282281d55
-
-
-
