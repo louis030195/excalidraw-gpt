@@ -6,11 +6,11 @@ import { createStreamableValue } from "ai/rsc";
 import { z } from "zod";
 
 const excalidrawElementSchema = z.object({
-  type: z.string(),
+  type: z.enum(["rectangle", "ellipse", "diamond", "circle"]),
   x: z.number(),
   y: z.number(),
-  width: z.number().optional(),
-  height: z.number().optional(),
+  width: z.number(),
+  height: z.number(),
   backgroundColor: z.string().optional(),
   strokeWidth: z.number().optional(),
 });
