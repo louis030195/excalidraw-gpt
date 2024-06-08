@@ -2,7 +2,8 @@
 
 just a quick experiment to stream things on `excalidraw` using `gpto` with `vercel/ai` lib
 
-example use case:
+example use case that could be useful:
+- new kind of web which is 100% generative UI on infinite canvas
 - look at your screen and create decision tree, maps, diagrams, of your doings, decisions, sales, crm, etc
 - help you think faster using visual thinking
 - connect your drawings by semantic (e.g. embeddings thing) like obsidian a bit but for excalidraw
