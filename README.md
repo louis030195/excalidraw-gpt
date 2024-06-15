@@ -33,4 +33,12 @@ pnpm dev
 go to localhost:3000 and you can start drawing
 
 
+### stack
+
+- excalidraw
+- nextjs
+- vercel
+- vercel/ai
+- shadcn/ui
+- magicui.design
 
