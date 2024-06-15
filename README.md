@@ -8,9 +8,10 @@ https://github.com/louis030195/excalidraw-gpt/assets/25003283/01e419b3-9744-4d08
 just a quick experiment to stream things on `excalidraw.com` using `gpto` with `vercel/ai` lib using a `cursor.com` like UX
 
 example use case that could be useful:
-- new kind of web which is 100% generative UI on infinite canvas
-- look at your screen and create decision tree, maps, diagrams, of your doings, decisions, sales, crm, etc
-- help you think faster using visual thinking
+- perplexity.ai in a canvas 
+- web in general 100% generative UI on infinite canvas
+- automatically generate maps of your thoughts based on your notes on the side
+- help you think differently using visual thinking, seeing the big picture quickly or different resolutions (think like Google Maps but 100% generative UI at different resolutions)
 - connect your drawings by semantic (e.g. embeddings thing) like obsidian a bit but for excalidraw
 - cursor.sh meet excalidraw.com
 - etc.
