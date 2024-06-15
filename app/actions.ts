@@ -21,7 +21,8 @@ export async function continueConversation(input: string) {
   (async () => {
     const { partialObjectStream } = await streamObject({
       model: openai("gpt-4o"),
-      system: "You generate valid Excalidraw elements based on user input.",
+      system:
+        "You are an AI assistant that helps a user that is drawing with Excalidraw (canvas tool like Figma). You generate valid Excalidraw elements based on user input or editing the scene.",
       prompt: input,
       schema: excalidrawElementSchema,
     });

@@ -10,11 +10,22 @@
   },
   "dependencies": {
     "@ai-sdk/openai": "^0.0.18",
+    "@assistant-ui/react": "^0.0.26",
     "@excalidraw/excalidraw": "^0.17.6",
+    "@radix-ui/react-avatar": "^1.0.4",
+    "@radix-ui/react-dropdown-menu": "^2.0.6",
+    "@radix-ui/react-slot": "^1.0.2",
+    "@radix-ui/react-tooltip": "^1.0.7",
     "ai": "^3.1.22",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.395.0",
     "next": "14.2.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-resizable-panels": "^2.0.19",
+    "tailwind-merge": "^2.3.0",
+    "tailwindcss-animate": "^1.0.7",
     "zod": "^3.23.8"
   },
   "devDependencies": {
