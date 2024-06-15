@@ -1,4 +1,10 @@
 
+
+
+https://github.com/louis030195/excalidraw-gpt/assets/25003283/01e419b3-9744-4d08-9e5e-7378ed59624d
+
+
+
 just a quick experiment to stream things on `excalidraw.com` using `gpto` with `vercel/ai` lib using a `cursor.com` like UX
 
 example use case that could be useful:
