@@ -1,6 +1,5 @@
 
-
-just a quick experiment to stream things on `excalidraw` using `gpto` with `vercel/ai` lib
+just a quick experiment to stream things on `excalidraw.com` using `gpto` with `vercel/ai` lib using a `cursor.com` like UX
 
 example use case that could be useful:
 - new kind of web which is 100% generative UI on infinite canvas
@@ -11,6 +10,20 @@ example use case that could be useful:
 - etc.
 
 
-https://github.com/louis030195/excalidraw-gpt/assets/25003283/a00d83f0-9abc-4085-bcb1-28ad10c33cc6
+### usage 
+
+atm you need to run it on your computer like so, first clone the repo and then:
+
+create .env and add your openai key to it like in .env.example
+
+
+```bash
+pnpm i 
+pnpm dev
+```
+
+
+go to localhost:3000 and you can start drawing
+
 
 
